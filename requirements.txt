@@ -1,0 +1,10 @@
+# make sure to activate new_env
+streamlit
+google-generativeai
+langchain
+PyPDF2
+python-docx
+pyth
+chromadb
+faiss-cpu
+langchain_google_genai
