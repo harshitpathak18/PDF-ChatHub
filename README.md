@@ -10,6 +10,6 @@ PDF ChatHub is a Streamlit-based web application that allows users to upload PDF
 
 ## Screenshots
 
-![Screenshot 1](https://raw.githubusercontent.com/harshitpathak/pdf-chathub/main/1.png)
+![Screenshot 1](https://github.com/harshitpathak18/PDF-ChatHub/blob/main/1.png)
 
-![Screenshot 2](https://raw.githubusercontent.com/harshitpathak/pdf-chathub/main/2.png)
+![Screenshot 2](https://github.com/harshitpathak18/PDF-ChatHub/blob/main/2.png)
